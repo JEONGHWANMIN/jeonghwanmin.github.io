@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://jeonghwanmin.github.io/tag/python/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jeonghwanmin.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-08-12T18:56:04+00:00</updated>
+  <updated>2020-08-13T05:05:51+09:00</updated>
   <id>https://jeonghwanmin.github.io/tag/python/feed.xml</id>
 
   
@@ -34,8 +34,8 @@
     <entry>
       <title type="html">python - Django-기초(1)</title>
       <link href="https://jeonghwanmin.github.io/python-django" rel="alternate" type="text/html" title="python - Django-기초(1)" />
-      <published>2020-08-12T03:10:00+00:00</published>
-      <updated>2020-08-12T03:10:00+00:00</updated>
+      <published>2020-08-12T12:10:00+09:00</published>
+      <updated>2020-08-12T12:10:00+09:00</updated>
       <id>https://jeonghwanmin.github.io/python-django</id>
       <content type="html" xml:base="https://jeonghwanmin.github.io/python-django">&lt;h3 id=&quot;django&quot;&gt;Django&lt;/h3&gt;
 &lt;p&gt;장고란 서버 역할을 할 수 있는 웹 프레임워크 이다. &lt;br /&gt;&lt;/p&gt;
@@ -44,7 +44,7 @@
 &lt;h4 id=&quot;1-django-install&quot;&gt;(1) Django install&lt;/h4&gt;
 &lt;p&gt;ex ) pipenv install django (가상환경에 장고 설치)&lt;/p&gt;
 
-&lt;h4 id=&quot;2-장고-프로젝트-설치&quot;&gt;(2) 장고 프로젝트 설치&lt;/h4&gt;
+&lt;h4 id=&quot;2-장고-프로젝트-만들기&quot;&gt;(2) 장고 프로젝트 만들기&lt;/h4&gt;
 &lt;p&gt;ex ) django-admin startproject firstproject&lt;/p&gt;
 
 &lt;p&gt;장고는 하나의 프로젝트(서비스) 안에 여러개의 앱(큰 기능)으로 구성된다.&lt;/p&gt;
@@ -61,7 +61,7 @@ ls 로 manage.py 가 있는 것을 확인하고, runserver !&lt;/p&gt;
 &lt;h4 id=&quot;4-장고-앱-생성하는-법&quot;&gt;(4) 장고 앱 생성하는 법&lt;/h4&gt;
 &lt;p&gt;python manage.py startapp firstapp&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/built/images/python-logo.png&quot; /&gt;&lt;/p&gt;</content>
+&lt;h4 id=&quot;장고장고&quot;&gt;장고장고&lt;/h4&gt;</content>
 
       
       
@@ -90,10 +90,50 @@ ls 로 manage.py 가 있는 것을 확인하고, runserver !&lt;/p&gt;
     </entry>
   
     <entry>
+      <title type="html">Python 블로그 연습(2) - Python 제어문</title>
+      <link href="https://jeonghwanmin.github.io/python-control-statement" rel="alternate" type="text/html" title="Python 블로그 연습(2) - Python 제어문" />
+      <published>2020-08-10T19:18:00+09:00</published>
+      <updated>2020-08-10T19:18:00+09:00</updated>
+      <id>https://jeonghwanmin.github.io/python-control-statement</id>
+      <content type="html" xml:base="https://jeonghwanmin.github.io/python-control-statement">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;python 블로그 연습 (2) !!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>JEONGHWANMIN</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">Python 강좌는 여러 절로 구성되어 있습니다. Python 강좌(1) - Python 기본 Python 강좌(2) - Python 제어문</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">python - 블로그 연습중 !!</title>
       <link href="https://jeonghwanmin.github.io/python-basic" rel="alternate" type="text/html" title="python - 블로그 연습중 !!" />
-      <published>2020-08-10T10:18:00+00:00</published>
-      <updated>2020-08-10T10:18:00+00:00</updated>
+      <published>2020-08-10T19:18:00+09:00</published>
+      <updated>2020-08-10T19:18:00+09:00</updated>
       <id>https://jeonghwanmin.github.io/python-basic</id>
       <content type="html" xml:base="https://jeonghwanmin.github.io/python-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
@@ -261,46 +301,6 @@ exclude:
   - _posts/economy
 &lt;/pre&gt;&lt;/noscript&gt;
 &lt;script src=&quot;https://gist.github.com/JEONGHWANMIN/614928cee9e69e4d0bc5c849e9812676.js&quot;&gt; &lt;/script&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>JEONGHWANMIN</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="python" />
-      
-
-      
-        <summary type="html">Python 강좌는 여러 절로 구성되어 있습니다. Python 강좌(1) - Python 기본 Python 강좌(2) - Python 제어문</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Python 블로그 연습(2) - Python 제어문</title>
-      <link href="https://jeonghwanmin.github.io/python-control-statement" rel="alternate" type="text/html" title="Python 블로그 연습(2) - Python 제어문" />
-      <published>2020-08-10T10:18:00+00:00</published>
-      <updated>2020-08-10T10:18:00+00:00</updated>
-      <id>https://jeonghwanmin.github.io/python-control-statement</id>
-      <content type="html" xml:base="https://jeonghwanmin.github.io/python-control-statement">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;python 블로그 연습 (2) !!&lt;/p&gt;</content>
 
       
       
