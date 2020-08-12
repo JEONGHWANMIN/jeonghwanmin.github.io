@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://jeonghwanmin.github.io/author/JEONGHWANMIN/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jeonghwanmin.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-08-13T04:41:21+09:00</updated>
+  <updated>2020-08-13T04:50:01+09:00</updated>
   <id>https://jeonghwanmin.github.io/author/JEONGHWANMIN/feed.xml</id>
 
   
@@ -59,9 +59,7 @@ ls 로 manage.py 가 있는 것을 확인하고, runserver !&lt;/p&gt;
 3 ) views.py에서 응답을 준다.&lt;/p&gt;
 
 &lt;h4 id=&quot;4-장고-앱-생성하는-법&quot;&gt;(4) 장고 앱 생성하는 법&lt;/h4&gt;
-&lt;p&gt;python manage.py startapp firstapp&lt;/p&gt;
-
-&lt;p&gt;수정112&lt;/p&gt;</content>
+&lt;p&gt;python manage.py startapp firstapp&lt;/p&gt;</content>
 
       
       
@@ -352,32 +350,15 @@ ex) 내용예시
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;_includes 폴더에 저장해서 관리&lt;/li&gt;
-  &lt;li&gt;post 안에 이런식으로 추가해준다.
- ~~~
-—
-layout: post
-current: post
-cover:  assets/built/images/python-logo.png
-navigation: True
-title: Python 강좌(1) - Python 기본 
-date: 2018-09-27 16:40:00
-tags: [python]
-class: post-template
-subclass: ‘post tag-python’
-author: moon9342
-—&lt;/li&gt;
+  &lt;li&gt;post 안에 이런식으로 추가해준다.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;~~~&lt;/p&gt;
-
-&lt;p&gt;수정
-1&lt;/p&gt;</content>
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;span class=&quot;table-of-contents-list&quot;&amp;gt;Python 강좌는 여러 절로 구성되어 있습니다. &amp;lt;/span&amp;gt;
+&amp;lt;ul class=&quot;table-of-contents-list&quot;&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;a href=&quot;./python-basic&quot;&amp;gt;Python 강좌(1) - Python 기본&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;a href=&quot;./python-control-statement&quot;&amp;gt;Python 강좌(2) - Python 제어문&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
 
       
       
