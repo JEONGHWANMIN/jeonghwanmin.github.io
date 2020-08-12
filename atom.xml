@@ -8,21 +8,6 @@
     
       
       <item>
-        <title>jekyll - 자동화 테스트중 !!</title>
-        
-          <description>&lt;p&gt;jekyll 블로그 연습 !&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Wed, 12 Aug 2020 10:18:00 +0000</pubDate>
-        <link>
-        https://JEONGHWANMIN.github.io/jekyll-basic2</link>
-        <guid isPermaLink="true">https://JEONGHWANMIN.github.io/jekyll-basic2</guid>
-      </item>
-      
-    
-      
-      <item>
         <title>python - Django-기초(1)</title>
         
           <description>&lt;h3 id=&quot;django&quot;&gt;Django&lt;/h3&gt;
@@ -79,9 +64,8 @@
       <item>
         <title>jekyll - 블로그 연습중 !!</title>
         
-          <description>&lt;p&gt;jekyll 블로그 연습 !&lt;/p&gt;
-&lt;h4 id=&quot;메뉴-추가&quot;&gt;메뉴 추가&lt;/h4&gt;
-&lt;p&gt;1._data tag수정 2._includes -&amp;gt; navigation.html 수정&lt;/p&gt;
+          <description>&lt;p&gt;까먹을거 같은 명령어&lt;/p&gt;
+
 </description>
         
         <pubDate>Mon, 10 Aug 2020 10:18:00 +0000</pubDate>

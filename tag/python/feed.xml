@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://jeonghwanmin.github.io/tag/python/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jeonghwanmin.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-08-12T18:56:04+00:00</updated>
+  <updated>2020-08-12T19:41:04+00:00</updated>
   <id>https://jeonghwanmin.github.io/tag/python/feed.xml</id>
 
   
@@ -44,7 +44,7 @@
 &lt;h4 id=&quot;1-django-install&quot;&gt;(1) Django install&lt;/h4&gt;
 &lt;p&gt;ex ) pipenv install django (가상환경에 장고 설치)&lt;/p&gt;
 
-&lt;h4 id=&quot;2-장고-프로젝트-설치&quot;&gt;(2) 장고 프로젝트 설치&lt;/h4&gt;
+&lt;h4 id=&quot;2-장고-프로젝트-만들기&quot;&gt;(2) 장고 프로젝트 만들기&lt;/h4&gt;
 &lt;p&gt;ex ) django-admin startproject firstproject&lt;/p&gt;
 
 &lt;p&gt;장고는 하나의 프로젝트(서비스) 안에 여러개의 앱(큰 기능)으로 구성된다.&lt;/p&gt;
@@ -61,7 +61,7 @@ ls 로 manage.py 가 있는 것을 확인하고, runserver !&lt;/p&gt;
 &lt;h4 id=&quot;4-장고-앱-생성하는-법&quot;&gt;(4) 장고 앱 생성하는 법&lt;/h4&gt;
 &lt;p&gt;python manage.py startapp firstapp&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/built/images/python-logo.png&quot; /&gt;&lt;/p&gt;</content>
+&lt;p&gt;수정1&lt;/p&gt;</content>
 
       
       

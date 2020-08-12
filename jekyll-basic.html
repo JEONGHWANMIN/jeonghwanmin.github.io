@@ -56,10 +56,7 @@
     <meta property="og:site_name" content="IT Student Min!" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="jekyll - 블로그 연습중 !!" />
-    <meta property="og:description" content="jekyll 블로그 연습 !
-메뉴 추가
-1._data tag수정 2._includes -&gt; navigation.html 수정
-" />
+    <meta property="og:description" content="까먹을거 같은 명령어 메뉴 추가 1._data -&gt; tag수정 2._includes -&gt; navigation.html 수정3. _posts 폴더 추가후 파일에 태그 바꿔주기 파일내 목차 추가 python-table-of-contents.html 만든다. ex) 내용예시 &lt;span class="table-of-contents-list"&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt; &lt;ul class="table-of-contents-list"&gt; &lt;li&gt;&lt;a href="./python-basic"&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="./python-control-statement"&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; _includes 폴더에" />
     <meta property="og:url" content="https://JEONGHWANMIN.github.io/jekyll-basic" />
     <meta property="og:image" content="https://JEONGHWANMIN.github.io/assets/built/images/jekyll-logo.png" />
     <meta property="article:publisher" content="https://www.facebook.com/" />
@@ -69,10 +66,7 @@
     <meta property="article:tag" content="Jekyll" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="jekyll - 블로그 연습중 !!" />
-    <meta name="twitter:description" content="jekyll 블로그 연습 !
-메뉴 추가
-1._data tag수정 2._includes -&gt; navigation.html 수정
-" />
+    <meta name="twitter:description" content="까먹을거 같은 명령어 메뉴 추가 1._data -&gt; tag수정 2._includes -&gt; navigation.html 수정3. _posts 폴더 추가후 파일에 태그 바꿔주기 파일내 목차 추가 python-table-of-contents.html 만든다. ex) 내용예시 &lt;span class="table-of-contents-list"&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt; &lt;ul class="table-of-contents-list"&gt; &lt;li&gt;&lt;a href="./python-basic"&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="./python-control-statement"&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; _includes 폴더에" />
     <meta name="twitter:url" content="https://JEONGHWANMIN.github.io/" />
     <meta name="twitter:image" content="https://JEONGHWANMIN.github.io/assets/built/images/jekyll-logo.png" />
     <meta name="twitter:label1" content="Written by" />
@@ -104,10 +98,7 @@
         "@type": "WebPage",
         "@id": "https://JEONGHWANMIN.github.io/jekyll-basic"
     },
-    "description": "jekyll 블로그 연습 !
-메뉴 추가
-1._data tag수정 2._includes -&gt; navigation.html 수정
-"
+    "description": "까먹을거 같은 명령어 메뉴 추가 1._data -&gt; tag수정 2._includes -&gt; navigation.html 수정3. _posts 폴더 추가후 파일에 태그 바꿔주기 파일내 목차 추가 python-table-of-contents.html 만든다. ex) 내용예시 &lt;span class="table-of-contents-list"&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt; &lt;ul class="table-of-contents-list"&gt; &lt;li&gt;&lt;a href="./python-basic"&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="./python-control-statement"&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; _includes 폴더에"
 }
     </script>
 
@@ -204,9 +195,50 @@ into the {body} of the default.hbs template -->
 
             <section class="post-full-content">
                 <div class="kg-card-markdown">
-                    <p>jekyll 블로그 연습 !</p>
+                    <p>까먹을거 같은 명령어</p>
+
 <h4 id="메뉴-추가">메뉴 추가</h4>
-<p>1._data tag수정 2._includes -&gt; navigation.html 수정</p>
+<p>1._data -&gt; tag수정 <br />2._includes -&gt; navigation.html 수정<br />3. _posts 폴더 추가후 파일에 
+태그 바꿔주기</p>
+
+<h4 id="파일내-목차-추가">파일내 목차 추가</h4>
+<ol>
+  <li>python-table-of-contents.html 만든다.
+ex) 내용예시
+    <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"table-of-contents-list"</span><span class="nt">&gt;</span>Python 강좌는 여러 절로 구성되어 있습니다. <span class="nt">&lt;/span&gt;</span>
+<span class="nt">&lt;ul</span> <span class="na">class=</span><span class="s">"table-of-contents-list"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;li&gt;&lt;a</span> <span class="na">href=</span><span class="s">"./python-basic"</span><span class="nt">&gt;</span>Python 강좌(1) - Python 기본<span class="nt">&lt;/a&gt;&lt;/li&gt;</span>
+    <span class="nt">&lt;li&gt;&lt;a</span> <span class="na">href=</span><span class="s">"./python-control-statement"</span><span class="nt">&gt;</span>Python 강좌(2) - Python 제어문<span class="nt">&lt;/a&gt;&lt;/li&gt;</span>
+<span class="nt">&lt;/ul&gt;</span>
+</code></pre></div>    </div>
+  </li>
+  <li>_includes 폴더에 저장해서 관리</li>
+  <li>post 안에 이런식으로 추가해준다.
+ ~~~
+—
+layout: post
+current: post
+cover:  assets/built/images/python-logo.png
+navigation: True
+title: Python 강좌(1) - Python 기본 
+date: 2018-09-27 16:40:00
+tags: [python]
+class: post-template
+subclass: ‘post tag-python’
+author: moon9342
+—</li>
+</ol>
+
+<p><span class="table-of-contents-list">Python 강좌는 여러 절로 구성되어 있습니다. </span></p>
+<ul class="table-of-contents-list">
+    <li><a href="./python-basic">Python 강좌(1) - Python 기본</a></li>
+    <li><a href="./python-control-statement">Python 강좌(2) - Python 제어문</a></li>
+</ul>
+
+<p>~~~</p>
+
+<p>수정
+1</p>
 
                 </div>
             </section>
@@ -300,55 +332,6 @@ into the {body} of the default.hbs template -->
                 
                 
                 
-                
-                    <article class="read-next-card"
-                        
-                            style="background-image: url(/assets/built/images/blog-cover1.png)"
-                        
-                    >
-                        <header class="read-next-card-header">
-                            <small class="read-next-card-header-sitetitle">&mdash; IT Student Min! &mdash;</small>
-                            
-                                <h3 class="read-next-card-header-title"><a href="/tag/jekyll/">Jekyll</a></h3>
-                            
-                        </header>
-                        <div class="read-next-divider"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 14.5s2 3 5 3 5.5-2.463 5.5-5.5S21 6.5 18 6.5c-5 0-7 11-12 11C2.962 17.5.5 15.037.5 12S3 6.5 6 6.5s4.5 3.5 4.5 3.5"/></svg>
-</div>
-                        <div class="read-next-card-content">
-                            <ul>
-                                
-                                
-                                  
-                                    
-                                        
-                                        
-                                            <li><a href="/jekyll-basic2">jekyll - 자동화 테스트중 !!</a></li>
-                                        
-                                    
-                                  
-                                
-                                  
-                                
-                                  
-                                
-                                  
-                                
-                                  
-                                    
-                                  
-                                
-                                  
-                                
-                            </ul>
-                        </div>
-                        <footer class="read-next-card-footer">
-                            <a href="/tag/jekyll/">
-                                
-                                    See all 1 posts  →
-                                
-                            </a>
-                        </footer>
-                    </article>
                 
             
 

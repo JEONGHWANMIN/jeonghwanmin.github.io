@@ -4,22 +4,6 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>https://JEONGHWANMIN.github.io/jekyll-basic2.html</loc>
-        
-        <lastmod>2020-08-12T10:18:00+00:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
         <loc>https://JEONGHWANMIN.github.io/python-django.html</loc>
         
         <lastmod>2020-08-12T03:10:00+00:00</lastmod>
