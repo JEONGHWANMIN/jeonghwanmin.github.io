@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://jeonghwanmin.github.io/author/JEONGHWANMIN/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jeonghwanmin.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-08-12T23:43:46+00:00</updated>
+  <updated>2020-08-12T23:51:40+00:00</updated>
   <id>https://jeonghwanmin.github.io/author/JEONGHWANMIN/feed.xml</id>
 
   
@@ -152,6 +152,40 @@ ls 로 manage.py 가 있는 것을 확인하고, runserver !&lt;/p&gt;
 
       
         <summary type="html">자격증 연습란</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">AI - 딥러닝 !!</title>
+      <link href="https://jeonghwanmin.github.io/ai-basic2" rel="alternate" type="text/html" title="AI - 딥러닝 !!" />
+      <published>2020-08-10T10:18:00+00:00</published>
+      <updated>2020-08-10T10:18:00+00:00</updated>
+      <id>https://jeonghwanmin.github.io/ai-basic2</id>
+      <content type="html" xml:base="https://jeonghwanmin.github.io/ai-basic2">&lt;p&gt;딥 딥 러닝 러닝&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>JEONGHWANMIN</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="ai" />
+      
+
+      
+        <summary type="html">딥 딥 러닝 러닝</summary>
       
 
       
