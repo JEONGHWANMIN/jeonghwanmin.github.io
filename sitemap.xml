@@ -4,25 +4,9 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>https://JEONGHWANMIN.github.io/jekyll-basic2.html</loc>
-        
-        <lastmod>2020-08-12T10:18:00+00:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
         <loc>https://JEONGHWANMIN.github.io/python-django.html</loc>
         
-        <lastmod>2020-08-12T03:10:00+00:00</lastmod>
+        <lastmod>2020-08-12T12:10:00+09:00</lastmod>
         
 
         
@@ -38,7 +22,7 @@
     <url>
         <loc>https://JEONGHWANMIN.github.io/python-basic.html</loc>
         
-        <lastmod>2020-08-10T10:18:00+00:00</lastmod>
+        <lastmod>2020-08-10T19:18:00+09:00</lastmod>
         
 
         
@@ -54,7 +38,7 @@
     <url>
         <loc>https://JEONGHWANMIN.github.io/python-control-statement.html</loc>
         
-        <lastmod>2020-08-10T10:18:00+00:00</lastmod>
+        <lastmod>2020-08-10T19:18:00+09:00</lastmod>
         
 
         
@@ -70,7 +54,7 @@
     <url>
         <loc>https://JEONGHWANMIN.github.io/jekyll-basic.html</loc>
         
-        <lastmod>2020-08-10T10:18:00+00:00</lastmod>
+        <lastmod>2020-08-10T19:18:00+09:00</lastmod>
         
 
         
@@ -86,7 +70,7 @@
     <url>
         <loc>https://JEONGHWANMIN.github.io/certification-basic.html</loc>
         
-        <lastmod>2020-08-10T10:17:00+00:00</lastmod>
+        <lastmod>2020-08-10T19:17:00+09:00</lastmod>
         
 
         
