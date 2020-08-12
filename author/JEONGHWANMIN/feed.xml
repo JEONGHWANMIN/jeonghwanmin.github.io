@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://jeonghwanmin.github.io/author/JEONGHWANMIN/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jeonghwanmin.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-08-12T23:36:43+00:00</updated>
+  <updated>2020-08-12T23:43:46+00:00</updated>
   <id>https://jeonghwanmin.github.io/author/JEONGHWANMIN/feed.xml</id>
 
   
@@ -96,7 +96,7 @@ ls 로 manage.py 가 있는 것을 확인하고, runserver !&lt;/p&gt;
       <published>2020-08-11T10:17:00+00:00</published>
       <updated>2020-08-11T10:17:00+00:00</updated>
       <id>https://jeonghwanmin.github.io/AI-basic</id>
-      <content type="html" xml:base="https://jeonghwanmin.github.io/AI-basic">&lt;p&gt;인공지능&lt;/p&gt;</content>
+      <content type="html" xml:base="https://jeonghwanmin.github.io/AI-basic">&lt;p&gt;인공지능 머신러닝 딥러닝&lt;/p&gt;</content>
 
       
       
@@ -117,7 +117,7 @@ ls 로 manage.py 가 있는 것을 확인하고, runserver !&lt;/p&gt;
       
 
       
-        <summary type="html">인공지능</summary>
+        <summary type="html">인공지능 머신러닝 딥러닝</summary>
       
 
       
@@ -183,10 +183,7 @@ ex) 내용예시
   &lt;/li&gt;
   &lt;li&gt;_includes 폴더에 저장해서 관리&lt;/li&gt;
   &lt;li&gt;post 안에 이런식으로 추가해준다.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+&lt;/ol&gt;</content>
 
       
       
