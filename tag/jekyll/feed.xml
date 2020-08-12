@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://jeonghwanmin.github.io/tag/jekyll/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jeonghwanmin.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-08-12T19:43:22+00:00</updated>
+  <updated>2020-08-12T19:47:37+00:00</updated>
   <id>https://jeonghwanmin.github.io/tag/jekyll/feed.xml</id>
 
   
@@ -55,32 +55,15 @@ ex) 내용예시
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;_includes 폴더에 저장해서 관리&lt;/li&gt;
-  &lt;li&gt;post 안에 이런식으로 추가해준다.
- ~~~
-—
-layout: post
-current: post
-cover:  assets/built/images/python-logo.png
-navigation: True
-title: Python 강좌(1) - Python 기본 
-date: 2018-09-27 16:40:00
-tags: [python]
-class: post-template
-subclass: ‘post tag-python’
-author: moon9342
-—&lt;/li&gt;
+  &lt;li&gt;post 안에 이런식으로 추가해준다.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;~~~&lt;/p&gt;
-
-&lt;p&gt;수정
-1&lt;/p&gt;</content>
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;span class=&quot;table-of-contents-list&quot;&amp;gt;Python 강좌는 여러 절로 구성되어 있습니다. &amp;lt;/span&amp;gt;
+&amp;lt;ul class=&quot;table-of-contents-list&quot;&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;a href=&quot;./python-basic&quot;&amp;gt;Python 강좌(1) - Python 기본&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;a href=&quot;./python-control-statement&quot;&amp;gt;Python 강좌(2) - Python 제어문&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
 
       
       
