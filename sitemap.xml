@@ -4,6 +4,38 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://JEONGHWANMIN.github.io/ai-basic2.html</loc>
+        
+        <lastmod>2020-08-12T10:18:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://JEONGHWANMIN.github.io/AI-basic.html</loc>
+        
+        <lastmod>2020-08-12T10:17:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
         <loc>https://JEONGHWANMIN.github.io/python-django.html</loc>
         
         <lastmod>2020-08-12T03:10:00+00:00</lastmod>
@@ -21,22 +53,6 @@
     
     <url>
         <loc>https://JEONGHWANMIN.github.io/certification-basic.html</loc>
-        
-        <lastmod>2020-08-11T10:17:00+00:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>https://JEONGHWANMIN.github.io/AI-basic.html</loc>
         
         <lastmod>2020-08-11T10:17:00+00:00</lastmod>
         
@@ -85,22 +101,6 @@
     
     <url>
         <loc>https://JEONGHWANMIN.github.io/jekyll-basic.html</loc>
-        
-        <lastmod>2020-08-10T10:18:00+00:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>https://JEONGHWANMIN.github.io/ai-basic2.html</loc>
         
         <lastmod>2020-08-10T10:18:00+00:00</lastmod>
         
