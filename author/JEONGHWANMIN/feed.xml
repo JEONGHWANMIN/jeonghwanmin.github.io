@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://jeonghwanmin.github.io/author/JEONGHWANMIN/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jeonghwanmin.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-08-12T20:14:42+00:00</updated>
+  <updated>2020-08-12T23:36:43+00:00</updated>
   <id>https://jeonghwanmin.github.io/author/JEONGHWANMIN/feed.xml</id>
 
   
@@ -84,6 +84,74 @@ ls 로 manage.py 가 있는 것을 확인하고, runserver !&lt;/p&gt;
 
       
         <summary type="html">Django 장고란 서버 역할을 할 수 있는 웹 프레임워크 이다.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">AI - 머신러닝 !!</title>
+      <link href="https://jeonghwanmin.github.io/AI-basic" rel="alternate" type="text/html" title="AI -  머신러닝 !!" />
+      <published>2020-08-11T10:17:00+00:00</published>
+      <updated>2020-08-11T10:17:00+00:00</updated>
+      <id>https://jeonghwanmin.github.io/AI-basic</id>
+      <content type="html" xml:base="https://jeonghwanmin.github.io/AI-basic">&lt;p&gt;인공지능&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>JEONGHWANMIN</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="AI" />
+      
+
+      
+        <summary type="html">인공지능</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">certification - SQLD !!</title>
+      <link href="https://jeonghwanmin.github.io/certification-basic" rel="alternate" type="text/html" title="certification - SQLD !!" />
+      <published>2020-08-11T10:17:00+00:00</published>
+      <updated>2020-08-11T10:17:00+00:00</updated>
+      <id>https://jeonghwanmin.github.io/certification-basic</id>
+      <content type="html" xml:base="https://jeonghwanmin.github.io/certification-basic">&lt;p&gt;자격증 연습란&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>JEONGHWANMIN</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="certification" />
+      
+
+      
+        <summary type="html">자격증 연습란</summary>
       
 
       
@@ -379,40 +447,6 @@ exclude:
 
       
         <summary type="html">Python 강좌는 여러 절로 구성되어 있습니다. Python 강좌(1) - Python 기본 Python 강좌(2) - Python 제어문</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">certification - SQLD !!</title>
-      <link href="https://jeonghwanmin.github.io/certification-basic" rel="alternate" type="text/html" title="certification - SQLD !!" />
-      <published>2020-08-10T10:17:00+00:00</published>
-      <updated>2020-08-10T10:17:00+00:00</updated>
-      <id>https://jeonghwanmin.github.io/certification-basic</id>
-      <content type="html" xml:base="https://jeonghwanmin.github.io/certification-basic">&lt;p&gt;자격증 연습란&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>JEONGHWANMIN</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="certification" />
-      
-
-      
-        <summary type="html">자격증 연습란</summary>
       
 
       

@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="https://jeonghwanmin.github.io/tag/certification/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://jeonghwanmin.github.io/tag/ai/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jeonghwanmin.github.io/" rel="alternate" type="text/html" />
   <updated>2020-08-12T23:36:43+00:00</updated>
-  <id>https://jeonghwanmin.github.io/tag/certification/feed.xml</id>
+  <id>https://jeonghwanmin.github.io/tag/ai/feed.xml</id>
 
   
   
@@ -32,12 +32,12 @@
 
   
     <entry>
-      <title type="html">certification - SQLD !!</title>
-      <link href="https://jeonghwanmin.github.io/certification-basic" rel="alternate" type="text/html" title="certification - SQLD !!" />
+      <title type="html">AI - 머신러닝 !!</title>
+      <link href="https://jeonghwanmin.github.io/AI-basic" rel="alternate" type="text/html" title="AI -  머신러닝 !!" />
       <published>2020-08-11T10:17:00+00:00</published>
       <updated>2020-08-11T10:17:00+00:00</updated>
-      <id>https://jeonghwanmin.github.io/certification-basic</id>
-      <content type="html" xml:base="https://jeonghwanmin.github.io/certification-basic">&lt;p&gt;자격증 연습란&lt;/p&gt;</content>
+      <id>https://jeonghwanmin.github.io/AI-basic</id>
+      <content type="html" xml:base="https://jeonghwanmin.github.io/AI-basic">&lt;p&gt;인공지능&lt;/p&gt;</content>
 
       
       
@@ -54,11 +54,11 @@
       
 
       
-        <category term="certification" />
+        <category term="AI" />
       
 
       
-        <summary type="html">자격증 연습란</summary>
+        <summary type="html">인공지능</summary>
       
 
       
