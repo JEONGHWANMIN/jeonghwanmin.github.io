@@ -64,6 +64,8 @@
         <title>jekyll - 블로그 연습중 !!</title>
         
           <description>&lt;p&gt;jekyll 블로그 연습 !&lt;/p&gt;
+&lt;h4 id=&quot;메뉴-추가&quot;&gt;메뉴 추가&lt;/h4&gt;
+&lt;p&gt;1._data tag수정 2._includes -&amp;gt; navigation.html 수정&lt;/p&gt;
 </description>
         
         <pubDate>Mon, 10 Aug 2020 10:18:00 +0000</pubDate>

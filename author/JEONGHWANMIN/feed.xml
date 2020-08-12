@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://jeonghwanmin.github.io/author/JEONGHWANMIN/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jeonghwanmin.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-08-12T18:20:07+00:00</updated>
+  <updated>2020-08-12T18:32:14+00:00</updated>
   <id>https://jeonghwanmin.github.io/author/JEONGHWANMIN/feed.xml</id>
 
   
@@ -73,7 +73,9 @@
       <published>2020-08-10T10:18:00+00:00</published>
       <updated>2020-08-10T10:18:00+00:00</updated>
       <id>https://jeonghwanmin.github.io/jekyll-basic</id>
-      <content type="html" xml:base="https://jeonghwanmin.github.io/jekyll-basic">&lt;p&gt;jekyll 블로그 연습 !&lt;/p&gt;</content>
+      <content type="html" xml:base="https://jeonghwanmin.github.io/jekyll-basic">&lt;p&gt;jekyll 블로그 연습 !&lt;/p&gt;
+&lt;h4 id=&quot;메뉴-추가&quot;&gt;메뉴 추가&lt;/h4&gt;
+&lt;p&gt;1._data tag수정 2._includes -&amp;gt; navigation.html 수정&lt;/p&gt;</content>
 
       
       
@@ -94,7 +96,7 @@
       
 
       
-        <summary type="html">jekyll 블로그 연습 !</summary>
+        <summary type="html">jekyll 블로그 연습 ! 메뉴 추가 1._data tag수정 2._includes -&amp;gt; navigation.html 수정</summary>
       
 
       
